@@ -1,4 +1,4 @@
-# Statistical-Project
+# StatisticalProject
 Statistical Learning Project
 
 This project explores the factors influencing flight delays, specifically focusing on flights arriving at JFK Airport. By applying statistical learning methods, the goal is to predict and classify whether a flight will be delayed, using various factors such as departure delays, weather conditions, and aircraft age.
